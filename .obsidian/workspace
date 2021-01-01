@@ -1,0 +1,106 @@
+{
+  "main": {
+    "id": "52dea7f722da63ed",
+    "type": "split",
+    "children": [
+      {
+        "id": "ac6fd175ae054a9c",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "er diagram.md",
+            "mode": "source"
+          }
+        },
+        "group": "58c21bd78029065f"
+      },
+      {
+        "id": "d0252cbec28bab69",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "er diagram.md",
+            "mode": "preview"
+          }
+        },
+        "group": "58c21bd78029065f"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dfc594d62d912147",
+    "type": "split",
+    "children": [
+      {
+        "id": "fe8e815fdc23e8c9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4c50bc2559a82e45",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "35b6038b3baac592",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "b3fa5912ae91f769",
+    "type": "split",
+    "children": [
+      {
+        "id": "76407d8dd0524012",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1f086b4b9bbd93d2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "er diagram.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "Untitled.md",
+    "basic terminology.md"
+  ]
+}
