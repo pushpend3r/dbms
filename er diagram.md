@@ -4,6 +4,6 @@ ER Diagram- Entity Relationship Diagram
 - Easy to understand even by non-technical users.
 
 It consists
-- Objects called *entity*
+- Object called *entity*
 - relations between them
 - attributes which defines their properties

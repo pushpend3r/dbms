@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "er diagram.md",
+            "file": "basic terminology.md",
             "mode": "source"
           }
         },
@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "er diagram.md",
+            "file": "basic terminology.md",
             "mode": "preview"
           }
         },
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "er diagram.md",
+                "file": "basic terminology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,9 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "basic terminology.md",
     "Untitled.md",
-    "basic terminology.md"
+    "entity and entity set.md",
+    "er diagram.md"
   ]
 }
