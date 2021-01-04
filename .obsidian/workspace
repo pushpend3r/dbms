@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "basic terminology.md",
+            "file": "degree of a relationship.md",
             "mode": "source"
           }
         },
@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "basic terminology.md",
+            "file": "degree of a relationship.md",
             "mode": "preview"
           }
         },
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "basic terminology.md",
+                "file": "degree of a relationship.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,9 +100,9 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "basic terminology.md",
     "Untitled.md",
     "entity and entity set.md",
+    "basic terminology.md",
     "er diagram.md"
   ]
 }
